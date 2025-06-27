@@ -3,7 +3,6 @@
 
 ## Contents of This Repo:
 
-- All code I have written by myself 
 - All mentor-given assignments 
 - Solutions to problems solved from external resources (CSES, LeetCode, Codeforces, etc.) 
 - ReadMe documenting my learning and progress 
