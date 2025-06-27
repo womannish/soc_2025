@@ -1,4 +1,4 @@
-# soc_2025
+# SOC_2025
 # Midterm Coding Progress Report - Code Arena
 
 ## Contents of This Repo:
